@@ -1,4 +1,4 @@
-### HTML, CSS, JS, JAVA, C++, C, PYTHON, REACT,
+### Junior Full Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,java,python,react,cpp,c,mongodb,expressjs)](https://skillicons.dev)
 <!---
 SbleitZ/SbleitZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
