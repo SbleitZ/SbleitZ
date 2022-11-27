@@ -2,7 +2,7 @@
 ## Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 ## Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,expressjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,expressjs,firebase)](https://skillicons.dev)
 ## Others skills
 [![My Skills](https://skillicons.dev/icons?i=java,python,cpp,c,git)](https://skillicons.dev)
 
