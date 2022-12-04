@@ -1,6 +1,6 @@
 ### Junior Full Stack
 ## Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,bootstrap)](https://skillicons.dev)
 ## Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,expressjs,firebase)](https://skillicons.dev)
 ## Others skills
