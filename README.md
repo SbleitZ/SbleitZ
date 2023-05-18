@@ -2,7 +2,7 @@
 ## Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,bootstrap,tailwindcss)](https://skillicons.dev)
 ## Backend
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,expressjs,firebase,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,expressjs,firebase,sql)](https://skillicons.dev)
 ## Others skills
 [![My Skills](https://skillicons.dev/icons?i=java,python,cpp,c,git)](https://skillicons.dev)
 ## Pending to learn
