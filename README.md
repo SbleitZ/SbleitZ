@@ -1,5 +1,5 @@
 # Junior Full Stack
-## [Ultimo proyecto](https://habitwise.vercel.app/)
+## [Ultimo proyecto](https://habitwise.me)
 ## Frontend
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,html,css,react,nextjs,bootstrap,tailwindcss)](https://skillicons.dev)
 ## Backend
