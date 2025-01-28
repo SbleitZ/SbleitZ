@@ -1,6 +1,6 @@
 <div align="center">
 
-# My Projects
+# 🚀 My Projects
 
 | <a href="https://malla.sbleit.net/" target="_blank">**Mallas Interactivas**</a> | <a href="https://github.com/SbleitZ/minecraft-launcher" target="_blank">**Minecraft Launcher**</a> | <a href="https://habitwise.vercel.app/" target="_blank">**Habitwise**</a> |
 | :---: | :---: | :---: |
