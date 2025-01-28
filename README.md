@@ -2,7 +2,7 @@
 
 # My Projects
 
-| <a href="https://github.com/user-attachments/assets/b8f59091-123a-4031-99b1-5d710acafb1d" target="_blank">**Mallas Interactivas**</a> | <a href="https://github.com/SbleitZ/minecraft-launcher" target="_blank">**Minecraft Launcher**</a> | <a href="https://habitwise.vercel.app/" target="_blank">**Habitwise**</a> |
+| <a href="https://malla.sbleit.net/" target="_blank">**Mallas Interactivas**</a> | <a href="https://github.com/SbleitZ/minecraft-launcher" target="_blank">**Minecraft Launcher**</a> | <a href="https://habitwise.vercel.app/" target="_blank">**Habitwise**</a> |
 | :---: | :---: | :---: |
 | <img src='https://imgur.com/gSqEAnr.png' width="100px" height="100px"> | <img src='https://imgur.com/AphQqcO.png' width="100px" height="100px"> | <img src='https://habitwise.vercel.app/favicon.ico' width="100px" height="100px"> |
 | <p>Mallas Interactivas UA</p><a href="https://malla.sbleit.net" target="_blank">`Website`</a> | <p>Launcher de Minecraft Personalizado</p><a href="https://github.com/SbleitZ/minecraft-launcher" target="_blank">`Repositorio`</a> | <p>Seguimiento de hábitos</p><a href="https://habitwise.vercel.app/" target="_blank">`Website`</a> |
